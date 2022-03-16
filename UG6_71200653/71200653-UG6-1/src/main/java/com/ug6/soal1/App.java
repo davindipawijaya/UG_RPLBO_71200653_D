@@ -3,10 +3,6 @@ package com.ug6.soal1;
 import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     private static int order=1;
